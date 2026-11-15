@@ -1,0 +1,78 @@
+body{
+background-color: #F9F9F9;
+color:black;
+font:arial;
+font-family: arial, sans-serif;
+
+}
+
+title{
+	font-style:bold;
+}
+
+nav{
+width: 17%;
+height: 100%;
+background-color: black;
+float:left;
+}
+
+nav ul li a{
+	font-family: arial, sans-serif;
+	color:#FFE100;
+	background-color: black;
+	font-size: 22px;
+	list-style-type:none;	
+	float:left;
+}
+
+nav ul li a:hover{
+	background-color:#FFE100;
+	color:black;
+}
+
+
+h3{
+	background-color:#FFE100;
+}
+
+body{
+background-color: #F9F9F9;
+font size: 150%;
+}
+
+#question{
+	float:center;
+	margin-left:500px;
+}
+
+#banner{
+	width: 90%;
+	height: 150px;
+	background-color: black;
+}	
+
+#b{			
+	margin-left:400px;
+	width:;	
+}
+
+
+
+a:link{	
+	background-color:#FFE100;
+	font-size: 115%;
+	font-family: arial, sans-serif;
+	color:black;
+}
+
+
+.page{
+color:black;
+	
+}
+
+#g1{
+	float:right;
+	margin-right: 130px;
+}
