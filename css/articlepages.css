@@ -1,0 +1,48 @@
+body{
+background-color: #F9F9F9;
+color:black;
+font:arial;
+font-family: arial, sans-serif;
+}
+
+nav{
+width: 17%;
+height: 100%;
+background-color:black;
+float:left;
+}
+
+nav ul li a{
+	font-family: arial, sans-serif;
+	color:#FFE100;
+	background-color: black;
+	font-size: 22px;
+	list-style-type:none;	
+	float:left;
+}
+
+nav ul li a:hover{
+	background-color:#FFE100;
+	color:black;
+}
+
+
+h2{
+color:gray;
+font:arial;
+float:center}
+
+.align{
+	float:center;
+	color: black;
+	margin: 5px;
+	padding: 40px;
+	text-align:center;
+}
+.deed{
+	float:center;
+	text-align:center;
+	padding-right:8%;
+	 padding-bottom: 23px;
+	 line-height: 1.5;
+
